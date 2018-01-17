@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GroupChat</string>
+    <string name="create_account">create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">password</string>
+    <string name="forgot_password">Forgot Password ?</string>
+</resources>
